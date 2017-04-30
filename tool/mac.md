@@ -40,11 +40,15 @@ chmod +x ssr
 #### 开发环境
 
 ```shell
-brew install gradle maven springboot mysql redis
+brew install gradle maven mysql redis
 brew install imagemagick node go openresty
 
 brew cask install alfred manico keepingyouawake sogouinput eudic evernote google-chrome flash-player kindle
 brew cask install dash java jd-gui iterm2 visual-studio-code intellij-idea-ce sequel-pro gitup
+
+brew tap pivotal/tap
+brew install springboot
+
 brew cask install android-sdk android-studio
 ```
 
