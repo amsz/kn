@@ -43,7 +43,7 @@ chmod +x ssr
 brew install gradle maven springboot mysql redis
 brew install imagemagick node go openresty
 
-brew cask install alfred manico keepingyouawake sogouinput eudic evernote google-chrome flash-player kindle
+brew cask install alfred manico keepingyouawake sogouinput eudic evernote google-chrome flash-player kindle neteasemusic
 brew cask install dash java jd-gui iterm2 visual-studio-code intellij-idea-ce sequel-pro gitup
 brew cask install android-sdk android-studio
 ```
