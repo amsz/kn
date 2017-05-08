@@ -44,6 +44,13 @@ done
 
 ```
 
+#### while 语句
+
+```shell
+find . -iname "*.jpg" -type f | while read img ; do
+  ...
+done
+```
 
 
 #### $ 开头的参数
